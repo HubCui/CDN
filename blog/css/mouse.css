@@ -5,6 +5,7 @@ html {
 	auto !important;
 }
 
+
 /* 代码段 */
 .code {
   cursor: url(/img/IBeam.cur),
@@ -16,6 +17,7 @@ input {
   cursor: url(/img/IBeam.cur),
 	auto !important;
 }
+
 
 /* 搜索框关闭按钮 */
 .search-close-button{
